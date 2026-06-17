@@ -29,6 +29,12 @@ During a visit to a local pizza café, I was genuinely impressed by the quality 
 
 🔗 **Website:** https://grotto-frontend-code.vercel.app/
 
+## 🎥 Demo Video
+
+📹 Watch the project walkthrough here:
+
+[▶️ Watch Demo Video](https://drive.google.com/file/d/1dbQhUeIUrci6-ZPgAsa6uIEN2B0i-q3s/view?usp=sharing).
+
 ---
 
 ## ✨ Features
